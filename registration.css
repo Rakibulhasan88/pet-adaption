@@ -1,0 +1,111 @@
+/* Registration Page Styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5;
+    margin: 0;
+}
+
+.registration-form-container {
+    background: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+    min-width: 320px;
+}
+
+.registration-form-container form {
+    padding: 2rem;
+    margin: 2rem;
+    box-shadow: 0 2px 8px #eee;
+    border-radius: .5rem;
+    background: #fff;
+    border: 2px solid #102040;
+    text-align: center;
+    width: 40rem;
+    
+}
+
+.registration-form-container form h3 {
+    color: #102040;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+    text-transform: none;
+}
+
+.registration-form-container form .box {
+    margin: .7rem 0;
+    width: 90%;
+    text-transform: none;
+    color: black;
+    font-size: 1.4rem;
+    border: 2px solid #102040;
+    border-radius: .5rem;
+    height: 3rem;
+    background: aqua;
+    padding: 0 1rem;
+}
+
+:root {
+  --accent: #ff9a24;
+  --black: #131313;
+}
+.registration-form-container form .btn {
+    display: block;
+    width: 50%;
+    margin: .5rem 0;
+    background: var(--accent) ;
+    font-weight: 500;
+    font-size: 1.3rem;
+    color: #fff;
+    border-radius: .5rem;
+    padding: 5px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+    margin-left: 25%;
+    height: 3rem;
+}
+
+.registration-form-container form .btn:hover {
+    background-color: green;
+    color: #102040;
+}
+
+.registration-form-container form p {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    color: #102040;
+}
+
+.registration-form-container form p a {
+    color: green;
+    text-decoration: underline;
+}
+.login-form-container form .buttons{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.btn-1  {
+    display: inline-block;
+    margin-top: .2rem;
+    background: var(--accent);
+    font-weight: 500;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+    border-radius: .5rem;
+    margin-left: 40px;
+    padding: 5px 20px;
+    width: 30%;
+
+}
+.btn-1:hover {
+    background-color: green;
+    color: #102040;
+}
