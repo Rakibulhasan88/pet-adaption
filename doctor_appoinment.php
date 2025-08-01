@@ -358,7 +358,7 @@
   <div class="cards">
     <div class="card">
       <div class="img-wrapper">
-        <img class="pet-img" src="img/d_dog.jpg" alt="Sir Woofs">
+        <img class="pet-img" src="img/rakib.jpg" alt="Sir Woofs">
       </div>
       <h3>Sir Woofs</h3>
     </div>
