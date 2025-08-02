@@ -358,19 +358,19 @@
   <div class="cards">
     <div class="card">
       <div class="img-wrapper">
-        <img class="pet-img" src="img/rakib.jpg" alt="Sir Woofs">
+        <img class="pet-img" src="img/rakib.jpg" alt="Dr. Rakibul Hasan">
       </div>
       <h3>Dr. Rakibul Hasan</h3>
     </div>
     <div class="card">
       <div class="img-wrapper">
-        <img class="pet-img" src="img/d_tota.jpg" alt="Captain Squawks">
+        <img class="pet-img" src="img/Ashik.jpg" alt="Dr. Ashikur Rahman">
       </div>
       <h3>Dr.Ashiqur Rahman</h3>
     </div>
     <div class="card">
       <div class="img-wrapper">
-        <img class="pet-img" src="img/d_cat.jpg" alt="Professor Meow">
+        <img class="pet-img" src="img/Hasib.jpg" alt="Dr. Al Hasib">
       </div>
       <h3>Dr. Al Hasib</h3>
     </div>
@@ -408,6 +408,9 @@
     <label>Available Doctor</label>
     <select id="doctorSelect" required>
       <option value="">-- Select Doctor --</option>
+      <option value="Dr. Al Hasib">Dr. Al Hasib</option>
+      <option value="Dr. Rakib Hasan">Dr. Rakib Hasan</option>
+      <option value="Dr. Ashikur Rahman">Dr. Ashikur Rahman</option>
     </select>
 
     <label>Preferred Date</label>

@@ -150,19 +150,19 @@
 
         <div class="animal-choice">
             <!-- Adopt a Cat -->
-            <a href="index_cat.html" class="animal-btn">
+            <a href="index_cat.php" class="animal-btn">
                 <img src="main_page_image/m_1.jpg" alt="Adopt a Cat">
                 <span>Adopt a Cat</span>
             </a>
 
             <!-- Adopt a Dog -->
-            <a href="index_dog.html" class="animal-btn">
+            <a href="index_dog.php" class="animal-btn">
                 <img src="main_page_image/m_2.jpg" alt="Adopt a Dog">
                 <span>Adopt a Dog</span>
             </a>
 
             <!-- Adopt a Bird -->
-            <a href="index_bird.html" class="animal-btn">
+            <a href="index_bird.php" class="animal-btn">
                 <img src="main_page_image/m_3.jpg" alt="Adopt a Bird">
                 <span>Adopt a Bird</span>
             </a>

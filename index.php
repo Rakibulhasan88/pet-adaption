@@ -200,10 +200,10 @@
                 <button class="srv-btn"><a href="doctor_appoinment.php">Read More</a></button>
             </div>
             <div class="serv-item">
-                <i class="fa-solid fa-fish"></i>
-                <h3>Pet Food</h3>
-                <p>Any type of pet foods are available here.</p>
-                <button class="srv-btn">Read More</button>
+                <i class="fa-solid fa-dog"></i>
+                <h3>Pet Adoption</h3>
+                <p>oustomers can adopt pets from our shop.</p>
+                <button class="srv-btn"><a href="main_page.php">Read More</a></button>
             </div>
             <div class="serv-item">
                 <i class="fa-solid fa-fish"></i>
@@ -249,7 +249,7 @@
                         <img src="img/testimony-image-1.png" alt="img">
                         <div class="testimony-name-item">
                             <h4>Rakibul Hasan</h4>
-                            <p>Owner</p>
+                            <p>Founder</p>
                         </div>
                     </div>
                     <i class="fa-solid fa-quote-right"></i>
@@ -265,7 +265,7 @@
                         <img src="img/testimony-image-1.png" alt="img">
                         <div class="testimony-name-item">
                             <h4>Ashikur Rahman</h4>
-                            <p>Owner</p>
+                            <p>Co-founder</p>
                         </div>
                     </div>
                     <i class="fa-solid fa-quote-right"></i>
@@ -282,7 +282,7 @@
                         <img src="img/testimony-image-1.png" alt="img">
                         <div class="testimony-name-item">
                             <h4>Mr. Al Hasib</h4>
-                            <p>Owner</p>
+                            <p>Co-Founder</p>
                         </div>
                     </div>
                     <i class="fa-solid fa-quote-right"></i>
@@ -335,7 +335,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">All Rights Reserved to <b>Purrfact</b></p>
+        <p class="copyright">All Rights Reserved to <b>Pawsitive</b></p>
 
      </footer>
 

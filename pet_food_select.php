@@ -32,19 +32,19 @@
                 <div class="img-wrapper">
                     <img class="pet-img" src="img/d_dog.jpg" alt="Sir Woofs">
                 </div>
-                <h3><a href="products.php">Sir Woofs</a></h3>
+                <h3><a href="products.php">Dog Food</a></h3>
             </div>
             <div class="card">
                 <div class="img-wrapper">
                     <img class="pet-img" src="img/d_tota.jpg" alt="Captain Squawks">
                 </div>
-                <h3><a href="products.php">Captain Squawks</a></h3>
+                <h3><a href="products.php">Bird Food</a></h3>
             </div>
             <div class="card">
                 <div class="img-wrapper">
                     <img class="pet-img" src="img/d_cat.jpg" alt="Professor Meow">
                 </div>
-                <h3><a href="products.php">Professor Meow</a></h3>
+                <h3><a href="products.php">Cat Food</a></h3>
             </div>
         </div>
         <a href="#appointment" class="button">Find More Food items </a>
