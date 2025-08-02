@@ -360,19 +360,19 @@
       <div class="img-wrapper">
         <img class="pet-img" src="img/rakib.jpg" alt="Sir Woofs">
       </div>
-      <h3>Sir Woofs</h3>
+      <h3>Dr. Rakibul Hasan</h3>
     </div>
     <div class="card">
       <div class="img-wrapper">
         <img class="pet-img" src="img/d_tota.jpg" alt="Captain Squawks">
       </div>
-      <h3>Captain Squawks</h3>
+      <h3>Dr.Ashiqur Rahman</h3>
     </div>
     <div class="card">
       <div class="img-wrapper">
         <img class="pet-img" src="img/d_cat.jpg" alt="Professor Meow">
       </div>
-      <h3>Professor Meow</h3>
+      <h3>Dr. Al Hasib</h3>
     </div>
   </div>
   <a href="#appointment" class="button">Book Doctor Appointment </a>
