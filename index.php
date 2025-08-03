@@ -69,7 +69,7 @@
             <h1>Find Your Perfect Pet Soul Today!</h1>
             <p>Discover Your Perfect Companion in Our Selection of Lovinf Pets Available for Adoption.</p>
             <div class="hero-headlines-buttons">
-                <button class="btn-3">Our Pets</button>
+                <button class="btn-3"><a href="main_page.php" class>Our Pets</a></button>
                 <button class="btn-3 btn-transparent"><a href="contact.php">Contact Us</a></button>
             </div>
         </div>

@@ -148,10 +148,15 @@ nav.sticky{
     height: 53px;
     background-color: var(--black) ;
     font-size: 24px;
-    color: white;
+    color: var(--accent);
     border-radius: 12px;
     border: 1px solid var(--black);
     transition: all 0.2s ease-out;
+}
+.btn-3 a{
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
 }
 
 .btn-3:hover{
@@ -160,13 +165,13 @@ nav.sticky{
 }
 
 .btn-transparent{
-    background-color: transparent;
+    background-color: var(--accent);
     color: var(--black);
 }
 
 .btn-transparent:hover{
     background-color: var(--accent);
-    color: white;
+    color: #102040;
 }
 .hero-images{
     display: flex;
