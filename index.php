@@ -152,7 +152,7 @@
             </div>
         </div>
         <button class="btn-3 btn-pets">
-            <p>Find More</p>
+            <p><a href="main_page.php" class>Find More</a></p>
             <i class="fa-solid fa-arrow-right-long"></i>
         </button>
     </section>
