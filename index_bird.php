@@ -189,70 +189,70 @@
                 <img src="bird_image/b_10.jpg" alt="Captain Squawks">
                 <h3>Captain Squawks</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Kiwi', 'Bird', '1 year', 'Jane Doe', 'Kiwi is an energetic parrot who loves flying around and interacting with people.')">
                 <img src="bird_image/b_1.jpg" alt="Kiwi">
                 <h3>Kiwi</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Peaches', 'Bird', '3 years', 'Mike Smith', 'Peaches is a calm and friendly bird that loves sitting on shoulders and being petted.')">
                 <img src="bird_image/b_2.jpg" alt="Peaches">
                 <h3>Peaches</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Blue', 'Bird', '2 years', 'Sarah Green', 'Blue is a playful and talkative bird, loves repeating words and sounds.')">
                 <img src="bird_image/b_3.jpg" alt="Blue">
                 <h3>Blue</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Sunny', 'Bird', '4 years', 'Kevin Brown', 'Sunny is a bright yellow parakeet who loves interacting with other birds.')">
                 <img src="bird_image/b_4.png" alt="Sunny">
                 <h3>Sunny</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Rio', 'Bird', '2 years', 'Anna Lee', 'Rio is a charming and affectionate bird who loves to sing in the morning.')">
                 <img src="bird_image/b_5.jpg" alt="Rio">
                 <h3>Rio</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Bella', 'Bird', '3 years', 'Rachel Adams', 'Bella is a social and talkative bird who loves to be the center of attention.')">
                 <img src="bird_image/b_6.jpg" alt="Bella">
                 <h3>Bella</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Tweety', 'Bird', '1 year', 'Emma White', 'Tweety is a friendly bird who loves chirping and playing with toys.')">
                 <img src="bird_image/b_7.jpg" alt="Tweety">
                 <h3>Tweety</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Tango', 'Bird', '5 years', 'Paul Green', 'Tango is a very colorful bird who loves to dance and interact with its owner.')">
                 <img src="bird_image/b_8.jpg" alt="Tango">
                 <h3>Tango</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Chirpy', 'Bird', '2 years', 'Megan Johnson', 'Chirpy is a fun-loving and energetic bird who enjoys playing and mimicking sounds.')">
                 <img src="bird_image/b_9.jpg" alt="Chirpy">
                 <h3>Chirpy</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
         </div>

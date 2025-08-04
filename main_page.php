@@ -255,25 +255,25 @@
     <!-- Navber Section End -->
 
     <div class="container">
-        <h1>Welcome to Purrfect Pet Adoption!</h1>
+        <h1>Adopt A Life, Gain A Friend!</h1>
         <p>Choose your perfect companion by clicking one of the animal types below:</p>
 
         <div class="animal-choice">
             <!-- Adopt a Cat -->
             <a href="index_cat.php" class="animal-btn">
-                <img src="main_page_image/m_1.jpg" alt="Adopt a Cat">
+                <img src="cat_image/cat_8.jpeg" alt="Adopt a Cat">
                 <span>Adopt a Cat</span>
             </a>
 
             <!-- Adopt a Dog -->
             <a href="index_dog.php" class="animal-btn">
-                <img src="main_page_image/m_2.jpg" alt="Adopt a Dog">
+                <img src="dog_image/dog_2.jpg" alt="Adopt a Dog">
                 <span>Adopt a Dog</span>
             </a>
 
             <!-- Adopt a Bird -->
             <a href="index_bird.php" class="animal-btn">
-                <img src="main_page_image/m_3.jpg" alt="Adopt a Bird">
+                <img src="bird_image/b_10.jpg" alt="Adopt a Bird">
                 <span>Adopt a Bird</span>
             </a>
         </div>

@@ -189,63 +189,63 @@
                 <img src="dog_image/dog_1.jpg" alt="Buddy">
                 <h3>Buddy</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Charlie', 'Dog', '2 years', 'Jane Doe', 'Charlie is a playful dog who loves fetching and is very energetic.')">
                 <img src="dog_image/dog_10.jpg" alt="Charlie">
                 <h3>Charlie</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Max', 'Dog', '4 years', 'Mike Smith', 'Max is a calm and loyal dog who enjoys being with his family and loves car rides.')">
                 <img src="dog_image/dog_3.jpg" alt="Max">
                 <h3>Max</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Bella', 'Dog', '3 years', 'Sarah Green', 'Bella loves long walks and is a gentle companion who enjoys cuddles.')">
                 <img src="dog_image/dog_11.jpg" alt="Bella">
                 <h3>Bella</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Rex', 'Dog', '5 years', 'Kevin Brown', 'Rex is a strong and protective dog who loves his family and enjoys playing in the yard.')">
                 <img src="dog_image/dog_5.jpg" alt="Rex">
                 <h3>Rex</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Luna', 'Dog', '1 year', 'Anna Lee', 'Luna is an energetic dog who loves playing fetch and running around in the park.')">
                 <img src="dog_image/dog_6.jpg" alt="Luna">
                 <h3>Luna</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Rocky', 'Dog', '3 years', 'Rachel Adams', 'Rocky is a playful dog that loves being active and going for runs with his owner.')">
                 <img src="dog_image/dog_7.jpg" alt="Rocky">
                 <h3>Rocky</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Milo', 'Dog', '2 years', 'Emma White', 'Milo is an affectionate dog who loves spending time with his humans and enjoys belly rubs.')">
                 <img src="dog_image/dog_8.jpg" alt="Milo">
                 <h3>Milo</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
             <div class="pet-card" onclick="openModal('Zoe', 'Dog', '4 years', 'Paul Green', 'Zoe is a loyal and friendly dog who loves playing fetch and going on walks.')">
                 <img src="dog_image/dog_9.jpg" alt="Zoe">
                 <h3>Zoe</h3>
                 <a href="javascript:void(0);" class="button">Previous Owner Report</a>
-                <a href="apply-for-adoption.html" class="button apply-button">Apply for Adoption</a>
+                <a href="pdf.php" class="button apply-button">Apply for Adoption</a>
             </div>
 
         </div>
