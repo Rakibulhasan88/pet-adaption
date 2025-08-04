@@ -1,3 +1,28 @@
+<?php
+require_once "config.php";
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $email = $conn->real_escape_string($_POST['log-email']);
+    $password = $_POST['log-password'];
+
+    // Fetch user by email
+    $sql = "SELECT * FROM register WHERE email='$email'";
+    $result = $conn->query($sql);
+
+    if ($result && $result->num_rows === 1) {
+        $row = $result->fetch_assoc();
+        if (password_verify($password, $row['password'])) {
+            // Login successful
+            echo "<script>alert('Login successful!'); window.location='main_page.php';</script>";
+            exit;
+        } else {
+            echo "<script>alert('Invalid password.');</script>";
+        }
+    } else {
+        echo "<script>alert('No user found with this email.');</script>";
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +46,7 @@
 <body>
     <!-- login start -->
     <div class="login-form-container">
-        <form action="">
+        <form action="" method="POST">
             <h3>User login</h3>
             <input type="email" placeholder="Enter your email" class="box" id="log-email">
             <input type="password" placeholder="Enter password" class="box" id="log-password">
