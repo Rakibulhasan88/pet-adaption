@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Purrfect Pet Adoption - Profile</title>
+    <title>Pawsative Pet Adoption - Profile</title>
     <style>
         * {
             margin: 0;
@@ -243,7 +243,7 @@
 <body>
 
     <header>
-        <div class="logo">Purr<span>fect</span></div> <!-- Removed logo -->
+        <div class="logo">Paw<span>sative</span></div> <!-- Removed logo -->
     </header>
 
     <div class="container">
@@ -331,7 +331,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Purrfect Pet Adoption. All Rights Reserved.</p>
+        <p>&copy; 2025 Pawsative Pet Adoption. All Rights Reserved.</p>
     </footer>
 
 </body>

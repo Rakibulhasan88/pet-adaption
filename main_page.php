@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Purrfect Pet Adoption - Choose Your Pet</title>
+    <title>Pawsative Pet Adoption - Choose Your Pet</title>
     <style>
         * {
             margin: 0;
@@ -231,7 +231,7 @@
     <!-- Navber section Start -->
     <nav>
         <a href="index.php" class="brend">
-            <h1>Purr<b class="accent">fact</b></h1>
+            <h1>Paw<b class="accent">sative</b></h1>
         </a>
         <div class="menu">
             <div class="btn">
@@ -280,7 +280,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Purrfect Pet Adoption. All Rights Reserved.</p>
+        <p>&copy; 2025 Pawsative Pet Adoption. All Rights Reserved.</p>
     </footer>
 
 </body>

@@ -11,7 +11,7 @@
     <!-- Navbar Section Start -->
     <section class="nav">
         <a href="index.php" class="brand">
-            <h1>Purr<b class="accent">fact</b></h1>
+            <h1>Paw<b class="accent">sative</b></h1>
         </a>
         <div class="menu">
             <div class="btn">
@@ -81,7 +81,7 @@
             <div class="footer-contact-info">
                 <div class="contact-info-item">
                     <i class="fa-regular fa-envelope"></i>
-                    <p>purrfect@gmail.com</p>
+                    <p>pawsative@gmail.com</p>
                 </div>
                  <div class="contact-info-item">
                     <i class="fa-solid fa-phone"></i>
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">All Rights Reserved to <b>Purrfact</b></p>
+        <p class="copyright">All Rights Reserved to <b>Pawsative</b></p>
 
      </footer>
 

@@ -17,7 +17,7 @@
     <!-- Navber section Start -->
     <nav>
         <a href="index.html" class="brend">
-            <h1>Purr<b class="accent">fact</b></h1>
+            <h1>Paw<b class="accent">sative</b></h1>
         </a>
         <div class="menu">
             <div class="btn">
@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="footer-brand">
-                <h1>Purr<b class="accent">fect</b></h1>
+                <h1>Paw<b class="accent">sative</b></h1>
                 <p>Find Your Purrfect Pet Soul Todey!</p>
                 <div class="socials">
                     <a href="/"><i class="fa-brands fa-facebook-f"></i></a>
@@ -97,7 +97,7 @@
             <div class="footer-contact-info">
                 <div class="contact-info-item">
                     <i class="fa-regular fa-envelope"></i>
-                    <p>purrfect@gmail.com</p>
+                    <p>pawsative@gmail.com</p>
                 </div>
                  <div class="contact-info-item">
                     <i class="fa-solid fa-phone"></i>
@@ -105,7 +105,7 @@
                 </div>
             </div>
         </div>
-        <p class="copyright">All Rights Reserved to <b>Purrfact</b></p>
+        <p class="copyright">All Rights Reserved to <b>Pawsative</b></p>
 
      </footer>
 

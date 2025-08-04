@@ -264,7 +264,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Purrfect Pet Adoption. All Rights Reserved.</p>
+        <p>&copy; 2025 Pawsative Pet Adoption. All Rights Reserved.</p>
     </footer>
 
     <script>

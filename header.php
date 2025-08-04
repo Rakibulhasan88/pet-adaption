@@ -2,7 +2,7 @@
 
    <div class="flex">
 
-      <a href="#" class="logo">purffect</a>
+      <a href="#" class="logo">Pawsative</a>
 
       <nav class="navbar">
          
